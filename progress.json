@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:04:22.862Z",
+  "generated_at": "2026-09-24T11:04:24.832Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -299,6 +299,32 @@
       "last_pushed_at": "2025-06-01T18:22:37.726Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2025-06-02T04:03:21.285Z",
+      "last_pushed_at": "2025-06-02T04:03:21.285Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-06-02T04:14:49.251Z",
+      "last_pushed_at": "2025-06-02T04:14:49.251Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

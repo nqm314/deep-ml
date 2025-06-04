@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:04:26.958Z",
+  "generated_at": "2026-09-24T11:04:29.373Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -349,6 +349,32 @@
       "path": "problems/0029-random-shuffle-of-dataset",
       "first_solved_at": "2025-06-03T16:18:10.732Z",
       "last_pushed_at": "2025-06-03T16:18:10.732Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2025-06-04T07:25:52.658Z",
+      "last_pushed_at": "2025-06-04T07:25:52.658Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2025-06-04T07:41:25.574Z",
+      "last_pushed_at": "2025-06-04T07:41:25.574Z",
       "language": "python",
       "lines": 11
     }

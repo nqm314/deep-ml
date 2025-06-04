@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-06-04 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-01-09 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-01-11 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-01-03 | [solution](problems/0004-calculate-mean-by-row-or-column) |
@@ -29,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2025-06-02 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-01-02 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-01-05 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2025-06-04 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-04-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-06-02 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-04-17 | [solution](problems/0017-k-means-clustering) |

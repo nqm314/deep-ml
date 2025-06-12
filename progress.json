@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:04:39.213Z",
+  "generated_at": "2026-09-24T11:04:41.287Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -468,6 +468,32 @@
       "last_pushed_at": "2025-06-10T02:25:44.376Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2025-06-12T02:08:42.443Z",
+      "last_pushed_at": "2025-06-12T02:08:42.443Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2025-06-12T02:15:47.280Z",
+      "last_pushed_at": "2025-06-12T02:15:47.280Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }

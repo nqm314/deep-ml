@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:04:54.858Z",
+  "generated_at": "2026-09-24T11:04:57.089Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -585,6 +585,32 @@
       "last_pushed_at": "2025-06-24T02:34:35.296Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2025-06-25T04:39:43.102Z",
+      "last_pushed_at": "2025-06-25T04:39:43.102Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2025-06-25T09:03:53.048Z",
+      "last_pushed_at": "2025-06-25T09:03:53.048Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }

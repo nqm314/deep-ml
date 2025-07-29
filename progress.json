@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:05:35.547Z",
+  "generated_at": "2026-09-24T11:05:37.503Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -882,6 +882,19 @@
       "path": "problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt",
       "first_solved_at": "2025-07-24T09:17:01.128Z",
       "last_pushed_at": "2025-07-24T09:17:01.128Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2025-07-29T13:56:44.877Z",
+      "last_pushed_at": "2025-07-29T13:56:44.877Z",
       "language": "python",
       "lines": 25
     }

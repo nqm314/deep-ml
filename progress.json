@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:05:47.802Z",
+  "generated_at": "2026-09-24T11:05:49.796Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -975,6 +975,19 @@
       "last_pushed_at": "2025-08-22T16:22:50.667Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:453": {
+      "kind": "problem",
+      "id": "453",
+      "title": "Implement Graph Convolution Network (GCN) Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/453",
+      "path": "problems/0453-implement-graph-convolution-network-gcn-layer",
+      "first_solved_at": "2026-03-27T11:45:34.303Z",
+      "last_pushed_at": "2026-03-27T11:45:34.303Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

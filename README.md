@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 80 problems · 0 labs · 2 math
+**83** solved · 81 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2025-06-02 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-11-12 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-04-17 | [solution](problems/0017-k-means-clustering) |
+| [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-11-12 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-01-11 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-01-09 | [solution](problems/0007-matrix-transformation) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-08-05 | [solution](problems/0080-normal-distribution-pdf-calculator) |

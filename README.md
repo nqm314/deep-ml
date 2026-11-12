@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**80** solved · 79 problems · 0 labs · 1 math
+**81** solved · 79 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-12 | [solution](math/0007-vector-operations) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-10-01 | [solution](math/0026-maximum-likelihood-and-map) |
 
 ---

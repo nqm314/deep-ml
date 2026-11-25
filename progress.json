@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:33:58.309Z",
+  "generated_at": "2026-11-25T13:22:10.826Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1097,6 +1097,19 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-11-20T10:33:54.511Z",
       "last_pushed_at": "2026-11-20T10:33:54.511Z"
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-11-25T13:22:05.419Z",
+      "last_pushed_at": "2026-11-25T13:22:05.419Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
